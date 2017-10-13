@@ -3093,7 +3093,7 @@ td, th {
   display: block;
   -webkit-transition: .25s;
   transition: .25s;
-  color: #26a69a;
+  color: #039be5;
 }
 
 .collection a.collection-item:not(.active):hover {
